@@ -1,31 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>About Me</title>
-    <url>/posts/undefined/</url>
-    <content><![CDATA[<blockquote>
-<h4 id="Hey-Bro-Glad-to-introduce-myself-to-you"><a href="#Hey-Bro-Glad-to-introduce-myself-to-you" class="headerlink" title="Hey Bro! Glad to introduce myself to you!"></a><strong>Hey Bro! Glad to introduce myself to you!</strong></h4></blockquote>
-<h2 id="Who-am-I"><a href="#Who-am-I" class="headerlink" title="Who am I?"></a>Who am I?</h2><hr>
-<h4 id="｡･∀･-ﾉﾞ"><a href="#｡･∀･-ﾉﾞ" class="headerlink" title="(｡･∀･)ﾉﾞ"></a><center>(｡･∀･)ﾉﾞ</center></h4><h4 id="Magnus-｜-ZJUer-CSer"><a href="#Magnus-｜-ZJUer-CSer" class="headerlink" title="Magnus ｜ ZJUer | CSer"></a><center>Magnus ｜ ZJUer | CSer</center></h4><h4 id="ENTJ-情感向｜有趣的灵魂🤔️"><a href="#ENTJ-情感向｜有趣的灵魂🤔️" class="headerlink" title="ENTJ | 情感向｜有趣的灵魂🤔️ "></a><center>ENTJ | 情感向｜有趣的灵魂🤔️ </center></h4><h4 id="Unknown-Challenge-Curiosity-Achievement"><a href="#Unknown-Challenge-Curiosity-Achievement" class="headerlink" title="Unknown | Challenge | Curiosity | Achievement"></a><center>Unknown | Challenge | Curiosity | Achievement<center></h4><h4 id="Taylor-Swift-JayChou"><a href="#Taylor-Swift-JayChou" class="headerlink" title="Taylor Swift | JayChou"></a><center>Taylor Swift | JayChou</center></h4><h4 id="海贼王狂热爱好者-经典日漫狂热爱好者-｜-偶尔韩剧"><a href="#海贼王狂热爱好者-经典日漫狂热爱好者-｜-偶尔韩剧" class="headerlink" title="\海贼王狂热爱好者&#x2F; | 经典日漫狂热爱好者 ｜ 偶尔韩剧"></a><center>\海贼王狂热爱好者&#x2F; | <del>经典日漫狂热爱好者</del> ｜ <del>偶尔韩剧</del></center></h4><h4 id="千字文-｜-传记-｜-情感分析🧐-｜-科普-｜-历史发展"><a href="#千字文-｜-传记-｜-情感分析🧐-｜-科普-｜-历史发展" class="headerlink" title="千字文 ｜ 传记 ｜ 情感分析🧐 ｜ 科普 ｜ 历史发展"></a><center>千字文 ｜ 传记 ｜ 情感分析🧐 ｜ 科普 ｜ 历史发展</center></h4><h4 id="Elon-Mask-Steve-Jobs"><a href="#Elon-Mask-Steve-Jobs" class="headerlink" title="Elon Mask | Steve Jobs "></a><center>Elon Mask | Steve Jobs </center></h4><h2 id="What-do-I-want-to-do"><a href="#What-do-I-want-to-do" class="headerlink" title="What do I want to do?"></a>What do I want to do?</h2><hr>
-<p>有一句话想送给你，也同样送给自己：<br><strong>You mustn’t be afraid to dream a little bigger!</strong></p>
-<h3 id="Sharer"><a href="#Sharer" class="headerlink" title="* Sharer"></a>* Sharer</h3><pre><code>在Magnus&#39;s Blog里，无论什么，都想跟你分享一下
-</code></pre>
-<h3 id="Listener"><a href="#Listener" class="headerlink" title="* Listener"></a>* Listener</h3><pre><code>同时如果有幸的话，也想认识认识你，听听你的故事🫡
-</code></pre>
-<h4 id="My-Github"><a href="#My-Github" class="headerlink" title="My Github"></a>My <a href="https://github.com/Magnus031/">Github</a></h4><h4 id="My-WeChat"><a href="#My-WeChat" class="headerlink" title="My WeChat"></a>My WeChat</h4><p><img src="https://github.com/Magnus031/Magnus031.github.io/blob/main/images/image/P1.jpg?raw=true" alt="P1"></p>
-]]></content>
-      <categories>
-        <category>About</category>
-      </categories>
-  </entry>
-  <entry>
     <title>e点0-&gt;1的感悟</title>
     <url>/posts/7f96/</url>
     <content><![CDATA[<p><img src="/themes/hexo-theme-next/source/images/WeiXinmp/e%E7%82%B90-%3E1%E7%9A%84%E6%84%9F%E6%82%9F/p1.jpg" alt="P1"><br>为什么会选择在如此忙碌的日子里更新呢？<del>（真的是忙里偷闲）</del></p>
 <p><strong>大致可能是一篇没什么营养的文章 但对自己来说有着别样的意义 想利用这个时候写些什么记录这时刻简单的美好</strong></p>
 <p>是因为这个<br><img src="/themes/hexo-theme-next/source/images/WeiXinmp/e%E7%82%B90-%3E1%E7%9A%84%E6%84%9F%E6%82%9F/p2.jpg" alt="P2"></p>
 <blockquote>
-<p>其实只是一个简单的Nginx部署和GitHub上面的强制https 但可能也是自己当初的坏毛病 总是弄了个大概就觉得自己懂了（看了一眼博客上的代码 原来思路这么简单～ 然后自己写 还是不会）然后导致各种地方出现小错误。</p>
+<p>其实只是一个简单的Nginx部署和GitHub上面的强制https 但可能也是自己当初的坏毛病 总是弄了个大概就觉得自己懂了 <del>（看了一眼博客上的代码 原来思路这么简单～ 然后自己写 还是不会）</del>  然后导致各种地方出现小错误。</p>
 </blockquote>
 <p><strong><center>本来我是放弃了，觉得说这个https强制老子不弄也罢</center></strong></p>
 <p>但这时候自己坏毛病又出现了，要不就干脆不考虑干，一旦干上了，那么就肯定是要做完为止，最起码自己满意（从下午16点到第二天早上7点破译维吉尼亚的经历历历在目！）于是乎，今天又选择了把这个搞好才罢休，又是一整个下午，数不清的浏览器界面，数不清的命令行调试，数不清的删了又下下了又删，终于在今天傍晚把这个给成功了（见下图）。<br><img src="/themes/hexo-theme-next/source/images/WeiXinmp/e%E7%82%B90-%3E1%E7%9A%84%E6%84%9F%E6%82%9F/p3.jpg" alt="P3"></p>
@@ -46,5 +28,23 @@
       <tags>
         <tag>Experience</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>About Me</title>
+    <url>/posts/undefined/</url>
+    <content><![CDATA[<blockquote>
+<h4 id="Hey-Bro-Glad-to-introduce-myself-to-you"><a href="#Hey-Bro-Glad-to-introduce-myself-to-you" class="headerlink" title="Hey Bro! Glad to introduce myself to you!"></a><strong>Hey Bro! Glad to introduce myself to you!</strong></h4></blockquote>
+<h2 id="Who-am-I"><a href="#Who-am-I" class="headerlink" title="Who am I?"></a>Who am I?</h2><hr>
+<h4 id="｡･∀･-ﾉﾞ"><a href="#｡･∀･-ﾉﾞ" class="headerlink" title="(｡･∀･)ﾉﾞ"></a><center>(｡･∀･)ﾉﾞ</center></h4><h4 id="Magnus-｜-ZJUer-CSer"><a href="#Magnus-｜-ZJUer-CSer" class="headerlink" title="Magnus ｜ ZJUer | CSer"></a><center>Magnus ｜ ZJUer | CSer</center></h4><h4 id="ENTJ-情感向｜有趣的灵魂🤔️"><a href="#ENTJ-情感向｜有趣的灵魂🤔️" class="headerlink" title="ENTJ | 情感向｜有趣的灵魂🤔️ "></a><center>ENTJ | 情感向｜有趣的灵魂🤔️ </center></h4><h4 id="Unknown-Challenge-Curiosity-Achievement"><a href="#Unknown-Challenge-Curiosity-Achievement" class="headerlink" title="Unknown | Challenge | Curiosity | Achievement"></a><center>Unknown | Challenge | Curiosity | Achievement<center></h4><h4 id="Taylor-Swift-JayChou"><a href="#Taylor-Swift-JayChou" class="headerlink" title="Taylor Swift | JayChou"></a><center>Taylor Swift | JayChou</center></h4><h4 id="海贼王狂热爱好者-经典日漫狂热爱好者-｜-偶尔韩剧"><a href="#海贼王狂热爱好者-经典日漫狂热爱好者-｜-偶尔韩剧" class="headerlink" title="\海贼王狂热爱好者&#x2F; | 经典日漫狂热爱好者 ｜ 偶尔韩剧"></a><center>\海贼王狂热爱好者&#x2F; | <del>经典日漫狂热爱好者</del> ｜ <del>偶尔韩剧</del></center></h4><h4 id="千字文-｜-传记-｜-情感分析🧐-｜-科普-｜-历史发展"><a href="#千字文-｜-传记-｜-情感分析🧐-｜-科普-｜-历史发展" class="headerlink" title="千字文 ｜ 传记 ｜ 情感分析🧐 ｜ 科普 ｜ 历史发展"></a><center>千字文 ｜ 传记 ｜ 情感分析🧐 ｜ 科普 ｜ 历史发展</center></h4><h4 id="Elon-Mask-Steve-Jobs"><a href="#Elon-Mask-Steve-Jobs" class="headerlink" title="Elon Mask | Steve Jobs "></a><center>Elon Mask | Steve Jobs </center></h4><h2 id="What-do-I-want-to-do"><a href="#What-do-I-want-to-do" class="headerlink" title="What do I want to do?"></a>What do I want to do?</h2><hr>
+<p>有一句话想送给你，也同样送给自己：<br><strong>You mustn’t be afraid to dream a little bigger!</strong></p>
+<h3 id="Sharer"><a href="#Sharer" class="headerlink" title="* Sharer"></a>* Sharer</h3><pre><code>在Magnus&#39;s Blog里，无论什么，都想跟你分享一下
+</code></pre>
+<h3 id="Listener"><a href="#Listener" class="headerlink" title="* Listener"></a>* Listener</h3><pre><code>同时如果有幸的话，也想认识认识你，听听你的故事🫡
+</code></pre>
+<h4 id="My-Github"><a href="#My-Github" class="headerlink" title="My Github"></a>My <a href="https://github.com/Magnus031/">Github</a></h4><h4 id="My-WeChat"><a href="#My-WeChat" class="headerlink" title="My WeChat"></a>My WeChat</h4><p><img src="https://github.com/Magnus031/Magnus031.github.io/blob/main/images/image/P1.jpg?raw=true" alt="P1"></p>
+]]></content>
+      <categories>
+        <category>About</category>
+      </categories>
   </entry>
 </search>
